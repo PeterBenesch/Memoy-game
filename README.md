@@ -1,4 +1,4 @@
-# Memoy-game
+# Memory-game
 
 Das Spiel zeit in einer 10*10 matrix mit buttons jeweils 3-8 buttons schwarz
 nach kurzer zeit (5 sekunden) werden die buttens wieder wie die restilchen.
